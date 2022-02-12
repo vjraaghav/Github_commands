@@ -1,0 +1,15 @@
+HOME="C:\Users\Vijay\Desktop\Git_projects"
+
+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s
+
+---------12-Feb-2022--------
+--24.Working with remote repository
+
+git remote -v --> show list of remote created
+
+git remote add github_cmds_origin https://github.com/vjraaghav/Github_commands.git --> to add remote origin with github folder
+
+git remote delete github_cmds_origin --> to delete remote
+
+vi git/config --> to open config file and delete last 3 lines and save it WQ! then remote connections will be deleted (same as git remote delte command)
+
